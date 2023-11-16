@@ -1,0 +1,20 @@
+
+body {
+  margin: 30px;
+  place-items: center;
+  padding: auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  
+}
+
+.producto {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  
+  
+}
+
